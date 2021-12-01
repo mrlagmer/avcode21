@@ -1,0 +1,15 @@
+{
+  "name": "avcode",
+  "version": "1.0.0",
+  "description": "Advent code 21",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "author": "Stuart Mitchell",
+  "license": "ISC",
+  "dependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
